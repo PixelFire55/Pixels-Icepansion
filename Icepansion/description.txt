@@ -1,0 +1,16 @@
+[c/327DFF:                         Pixel's Icepansion Mod!]
+
+[c/0164c1:This mod is currently a work in progress, but the] [c/0164c1:current features are:]
+ 
+[i:664] A new ore called Glacium Ore
+[i:664] Glacium bars, which has the express purpose of crafting the [c/2ebde7:Glacial Blade] (For now).
+[i:664] A new weapon called the [c/2ebde7:Glacial Blade], an end-game weapon that is similar to the Terrablade in stats. The main difference between this sword and the Terrablade is that the [c/2ebde7:Glacial Blade] is slightly faster, has a slightly higher damage, and the projectiles the [c/2ebde7:Glacial Blade] shoots function similarly to chlorophyte bullets.
+
+[c/0164c1:I plan to add:]
+[i:664] A better way to obtain Glacium Ore, which could include:
+    [i:664] A snow-themed boss
+    [i:664] A new enemy
+    [i:664] Ore generation
+[i:664] A new debuff called "Hypothermic" that you get by touching the raw ore/getting hit my the sword.
+[i:664] A new summon called a "Snowbird" that dives at enemies (Like Duke Fishron).
+[i:664] And likely more that I can't think of right now.
