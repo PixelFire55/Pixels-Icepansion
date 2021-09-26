@@ -2,6 +2,7 @@
 	using Terraria.ModLoader;
 	using Terraria.ID;
 	using Microsoft.Xna.Framework;
+	using Terraria.Localization;
 	
 	namespace Icepansion.Items.Tiles
 	{
@@ -16,6 +17,7 @@
 				
 				ModTranslation name = CreateMapEntryName();
 				name.SetDefault("Glacium Ore");
+            			name.AddTranslation(GameCulture.Chinese, "冰寒矿");
 				
 				AddMapEntry(new Color(32, 116, 144), name);
 				
