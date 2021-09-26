@@ -1,5 +1,6 @@
 using Terraria.ID;
 using Terraria.ModLoader;
+using Terraria.Localization;
 
 namespace Icepansion.Items
 {
@@ -9,6 +10,8 @@ namespace Icepansion.Items
 		{
 			DisplayName.SetDefault("Glacium Ore");
 			Tooltip.SetDefault("''Precious ore originating from ancient glaciers.''");
+			DisplayName.AddTranslation(GameCulture.Chinese, "冰川矿");
+			Tooltip.AddTranslation(GameCulture.Chinese, "'源自远古冰川的珍贵矿石.'");
 		}
 		
 		public override void SetDefaults()
