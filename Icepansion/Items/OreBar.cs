@@ -11,7 +11,7 @@ namespace Icepansion.Items
 			DisplayName.SetDefault("Refined Glacium");
 			Tooltip.SetDefault("''Precious metal forged from ancient glaciers.''");
 			DisplayName.AddTranslation(GameCulture.Chinese, "冰川锭");
-			Tooltip.AddTranslation(GameCulture.Chinese, "'由远古寒冰冶炼而成的贵重金属.'");
+			Tooltip.AddTranslation(GameCulture.Chinese, "'由远古冰川铸炼而成的贵重金属.'");
 		}
 		
 		public override void SetDefaults()
