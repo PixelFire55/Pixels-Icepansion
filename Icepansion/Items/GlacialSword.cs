@@ -8,6 +8,7 @@
 
 using Terraria.ID;
 using Terraria.ModLoader;
+using Terraria.Localization;
 
 namespace Icepansion.Items
 {
@@ -17,6 +18,8 @@ namespace Icepansion.Items
 		{
 			DisplayName.SetDefault("Glacial Blade");
 			Tooltip.SetDefault("[c/8fcbe3:Shoots a small blade of ice that follows and pierces enemies]"); //Thanks Redigit(creator of code) and AwesomePerson159(converted code to tModloader) for the Chlorophyte bullet AI!
+            		DisplayName.AddTranslation(GameCulture.Chinese, "冰川剑");
+			Tooltip.AddTranslation(GameCulture.Chinese, "[c/8fcbe3:发射会追踪并穿透敌人的冰刃]");
 		}
 
 		public override void SetDefaults() 
