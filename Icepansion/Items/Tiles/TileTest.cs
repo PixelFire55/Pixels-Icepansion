@@ -17,7 +17,7 @@
 				
 				ModTranslation name = CreateMapEntryName();
 				name.SetDefault("Glacium Ore");
-            			name.AddTranslation(GameCulture.Chinese, "冰寒矿");
+            			name.AddTranslation(GameCulture.Chinese, "冰川矿");
 				
 				AddMapEntry(new Color(32, 116, 144), name);
 				
